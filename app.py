@@ -2,13 +2,15 @@ from flask import Flask, request, jsonify
 import firebase_admin
 from firebase_admin import credentials, db
 import json
+import os
 
 app = Flask(__name__)
 
 # -----------------------------
 # Firebase Initialization
 # -----------------------------
-cred = credentials.Certificate("firebase_key.json")
+firebase_json = json.loads(os.environ["FIREBASE_KEY"])
+cred = credentials.Certificate(firebase_json)
 
 firebase_admin.initialize_app(cred, {
     'databaseURL': 'https://smartbottlereward-default-rtdb.asia-southeast1.firebasedatabase.app/'

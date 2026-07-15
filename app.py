@@ -2,15 +2,13 @@ from flask import Flask, request, jsonify
 import firebase_admin
 from firebase_admin import credentials, db
 import json
-import os
 
 app = Flask(__name__)
 
 # -----------------------------
 # Firebase Initialization
 # -----------------------------
-firebase_json = json.loads(os.environ["FIREBASE_KEY"])
-cred = credentials.Certificate(firebase_json)
+cred = credentials.Certificate("firebase_key.json")
 
 firebase_admin.initialize_app(cred, {
     'databaseURL': 'https://smartbottlereward-default-rtdb.asia-southeast1.firebasedatabase.app/'
@@ -85,10 +83,10 @@ def reward():
         }
 
     # -----------------------------
-    # Add 10 Points
+    # Add 1 Point (1 Bottle = 1 Point)
     # -----------------------------
     points = user.get("points", 0)
-    points = points + 10
+    points = points + 1
 
     # -----------------------------
     # Save Points

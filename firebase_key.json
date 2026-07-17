@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smartbottlereward",
+  "private_key_id": "ada9010b4cd765b9668729ded6d8e5938ae76297",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyW5phtvtx7w11\n222X0FdhkzDgOjdRF9coQOeGsmFiFawb+2Y5HctP4IwbxxC0eZPmnGWwdpZTae78\ndvAma4XymgcYapKvoeqMTegDOvqcWHVY1lQH8NhuPD6ohF+4VIDv/zERyiUuDQYr\nHyqPGQUNLTjjsx1VNELUSluNMba9/+XHpzcM39Kf5N3uSo0up/wXmToCKDHxvE+1\ngppDdkuw8wdB/wv5BIqUzG9WAqdM3QcaP/eSHD1O8f8G2gCRgk7yf3zQtX+M/RAr\ne/WEoIh+5LYFEvirv7LWll2HeW0Uy6Ngltq9cg3hVbqXrXDOVKRRX56D44295rtF\nmbhzpzoDAgMBAAECggEACbo2pPsPVj5RvB2zECZ6byWeP7E9IIABECUPqFUYCMe8\nAsZG/XkTN31WKhLemN4DahgZvbJboYIAcqZKYILY8KT9tRNLtVnkPZgaisgpMEsf\n+OMVL/eu176szJEODWYVpo4C9ZofEmNlQW3Qnhkg7hm+ZacrqhPdfzZTYIbkSHlr\nxk/kbFcDVSJSfEnbKobAkxiGOV+7TSU0JgK6CeP6EI7q4FNwjHD2+tyzfThMhgS2\nHeiSUtHl1vkHq0PHGZCZ7pQA+758Wqdd3gtuGHajjpXpM6UCJ92aZRgpZH/r3yew\nyfrH8uTkNAjnKmAFhUsD30uDbF+TTQYmaLKs14zUrQKBgQDc6KwcuazgVFuOc5Ub\nGXg5C/GC9PTQY+M9xPLnPbOjX0I0Ey2Ju2Up6wJqKuWfLMC2NtFiC6rf+w6WhkZq\nrY0g3Nxax3F4aHoizMim7eZPYEEWoMd5ZduLgLriqH0PDaa34ZM1HegqCaS5+xJk\nzgSes9/cRVkZ0QQL84J1G6ZonQKBgQDOsJQ+THMX7eSvWFzjRNfCZcGXPoI9Nutg\nkNUkEBvUovRtRoC2nMWhLcTlQIAuxYqj/2TpqvRUO9b1DfEE/PQxHZldzToUZahe\nsn+zPX9tRCZtc+EUnzbotXvJQ7jD05fVvUjwisISIVcdwagnciWNZXLJYPvwvePv\nlYKbndgbHwKBgQCkjoHfKAT6WnyVQc45kKB4xkfSyIwxS6c0FSjoTpMpSMV1KzAJ\n4Fk8f36d/XRtPRYU5gLVKWHRVSAJyt5biwqNB1jyGo2RJyqMD8YMazzbthTmOUA+\nUzzWzz7npqD5/K5LXbKdp7iQz/wwOjH6e2j/m3hPii0USRndmTh96entFQKBgF5i\nJh/Yu0n3GVG08R3bJweffeq54bFgbdW37Yy9SmgsTZ/E7Sv2pQy4IMxrSt2Q2YGQ\nM528sjvw43Ud+6zCciQnlwxNljMQRPWRX10TPShBUabznpnTJrjXfwJmSW4rJo+1\nEyS8yGiNDwIIl+gDaQCLjgJFpmbF39tdE7pKNxATAoGBAICwLWGLHBnkMWLbtgi2\nv2MUrad71R4NkDG/j0/SLB12I1iEfc39nFrQZx3FKqeMuQPUax/OerBhNsAxNdGh\nqTw9hy1gGjssJ60L6UenXEF0iUhbaaxzf1/tXn5myvTvkCRyEPl4uj4SGQminRs/\nzcy/zx+zISxAMiB8RIvRRAPb\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@smartbottlereward.iam.gserviceaccount.com",
+  "client_id": "108821317555276212785",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40smartbottlereward.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
